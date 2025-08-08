@@ -1,0 +1,17 @@
+[
+  "event LandDisputed(uint256,address)",
+  "event LandStatusChanged(uint256,uint8)",
+  "event LandVerified(uint256,address)",
+  "event RegisteredLand(uint256,address)",
+  "event TransferredOwnership(uint256,address,address)",
+  "function getAllLands() view returns ((uint256,address,uint256,string,string,string,uint8,uint8,uint256)[])",
+  "function getDisputedLands() view returns ((uint256,address,uint256,string,string,string,uint8,uint8,uint256)[])",
+  "function getLandDetails(uint256) view returns (uint256,address,uint256,string,string,string,uint8,uint8,uint256)",
+  "function getMyLands(address) view returns ((uint256,address,uint256,string,string,string,uint8,uint8,uint256)[])",
+  "function getOwnershipHistory(uint256) view returns (address[])",
+  "function markAsDisputed(uint256)",
+  "function purchaseLand(uint256) payable",
+  "function registerLand(uint256,string,string,string,uint256)",
+  "function verifyLand(uint256)",
+  "function verifyLandAndRemoveDuplicates(uint256)"
+]
