@@ -15,9 +15,9 @@ Built with **Solidity** for the smart contract and **Next.js** for the frontend,
 - **PDF as registry Certificates** – Download verified land ownership certificates.
 - **Gas Optimization** – Hash-based indexing for duplicate checks.
 
-Video Demo: 
-https://drive.google.com/file/d/1eW6LEvA08SZbR6UvAOlYprtVgZYN6Ppu/view?usp=sharing
+Video Demo:
 ---
+https://drive.google.com/file/d/1eW6LEvA08SZbR6UvAOlYprtVgZYN6Ppu/view?usp=drive_link
 
 ## 🛠️ Tech Stack
 
