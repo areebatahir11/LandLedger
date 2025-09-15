@@ -71,7 +71,10 @@ To deploy on a local blockchain:
 ```
 npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
+
 ```
+## Frontend link on vercel
+https://land-ledger-gamma.vercel.app/
 
 ## 📜 License
 
