@@ -3,6 +3,13 @@
 **LandLedger** is a full-stack blockchain application that enables secure, transparent, and tamper-proof land registration and transfer of ownership.  
 Built with **Solidity** for the smart contract and **Next.js** for the frontend, it ensures that property records are immutable and accessible to all stakeholders.
 
+Video Demo:
+---
+https://drive.google.com/file/d/1eW6LEvA08SZbR6UvAOlYprtVgZYN6Ppu/view?usp=drive_link
+
+## Frontend link on vercel
+https://land-ledger-gamma.vercel.app/
+
 ---
 ## 🚀 Features
 
@@ -14,10 +21,6 @@ Built with **Solidity** for the smart contract and **Next.js** for the frontend,
 - **Land details by ID** – Quickly find lands by owner address or unique ID.
 - **PDF as registry Certificates** – Download verified land ownership certificates.
 - **Gas Optimization** – Hash-based indexing for duplicate checks.
-
-Video Demo:
----
-https://drive.google.com/file/d/1eW6LEvA08SZbR6UvAOlYprtVgZYN6Ppu/view?usp=drive_link
 
 ## 🛠️ Tech Stack
 
@@ -73,8 +76,6 @@ npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 
 ```
-## Frontend link on vercel
-https://land-ledger-gamma.vercel.app/
 
 ## 📜 License
 
